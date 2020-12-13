@@ -22,10 +22,16 @@
        더 세분화 되면 인물 검색은 그 인물 사진을 첨부하면 내 갤러리 속 그 인물의 사진이 모두 나온다. 
        
 ## 6주차 과제 
+   <img width="" height="" src="./png/6주차.png"></img>
+   <img width="" height="" src="./png/6주차문제1.png"></img>
+   <img width="" height="" src="./png/6주차문제2.png"></img>
+   
 
 ## 7주차 과제
    <img width="" height="" src="./png/7주차.png"></img>
    <img width="" height="" src="./png/7주차코드.png"></img>
+   
+   
    
    
 
